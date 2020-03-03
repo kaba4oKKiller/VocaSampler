@@ -1,6 +1,6 @@
 <h1><b>VocaSampler</b></h1>
-<i>The resampler that tries to sound like Vocaloid!/ VOCALOIDのように聞こえるリサンプラー！</i><br>
-<b>Warning</b>
+<i>The resampler that tries to sound like Vocaloid!/ VOCALOIDのように聞こえるリサンプラー！</i><br><br>
+<b>Warning:</b>
 For Japanese speakers, the Japanese will probably look horribly wrong due to me using Google Translate. I won't probably attempt to translate since my Japanese is at a level of a baby's.<br>
 日本語を話す人にとっては、おそらくGoogle翻訳を使用しているため、日本人は恐ろしく間違って見えるでしょう。私の日本語は赤ちゃんのレベルなので、翻訳しようとは思わないでしょう。<br><br>
 While this will help out with making your UTAU, if you want to get a perfect result I'll reccomend:<br>
