@@ -1,4 +1,3 @@
-# VocaSampler
 <h1><b>VocaSampler</b></h1>
 <i>The resampler that tries to sound like Vocaloid!/ VOCALOIDのように聞こえるリサンプラー！</i><br>
 <b>Warning</b>
